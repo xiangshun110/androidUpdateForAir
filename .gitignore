@@ -1,0 +1,5 @@
+*.ipa
+*.apk
+obj/
+local.as3proj
+temp/
